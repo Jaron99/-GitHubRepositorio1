@@ -26,6 +26,8 @@ Dictionary<string, int> dep = new()
 };
 
 var orderDepResult = dep.OrderBy(d => d.Value);
+
+//Encuentra el menor
 var menDep = dep.Select(d => d).Where(d => d.Value == dep.Values.ToArray().Min());
 Console.WriteLine("Departamento con menor Población:");
 
