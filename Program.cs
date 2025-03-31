@@ -43,6 +43,7 @@ int total = orderDepResult.ToDictionary(kvp => kvp.Key, kvp => kvp.Value).Values
 
 Console.WriteLine($"Población General:{total,17:N0}");
 
+//mostrar los tres departamentos con mayor población
 var tresMayores = orderDepResult.TakeLast(3);
 Console.WriteLine($"Los tres departemento con mayor población son:");
 tresMayores = tresMayores.OrderByDescending(d => d.Value);
