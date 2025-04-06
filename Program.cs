@@ -18,5 +18,10 @@ for (var i = 0; i < Poblacion.Length; i++)
     Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
 //Suma de toda la población y nombre de mayor y menor
 Console.WriteLine($"Población General:{Poblacion.Sum():N0}");
+<<<<<<< HEAD
 Console.WriteLine($"mayor Población:{maxDepkey}");
 Console.WriteLine($"menor Población:{minDepkey}");
+=======
+Console.WriteLine($"El Departamento con mayor Población es:{maxDepkey}");
+Console.WriteLine($"El Departamento con menor Población es:{minDepkey}");
+>>>>>>> versionsimple
