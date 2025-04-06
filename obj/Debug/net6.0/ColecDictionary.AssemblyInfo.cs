@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColecDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cf1744e33d25ac8dedf4a8c12a4a467a3955300")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46d9dc077b6b4539519322ec9eabf0b20d1fa94")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColecDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColecDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
