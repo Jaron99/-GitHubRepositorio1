@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 //definicion e inicializacion de los arreglos en paralelo y el diccionario
 String[] Departamento = { "Boaco", "Carazo", "Chinandega", "Chontales", "Costa Caribe Norte", "Costa Caribe Sur", "Estelí", "Granada", "Jinotega", "León", "Madriz", "Managua", "Masaya", "Matagalpa", "Nueva Segovia", "Río San Juan", "Rivas" };
-int[] Poblacion = { 185103, 197139, 399206, 190893, 530586, 414523, 229866, 213417, 475630, 421050, 174744, 1456399, 391903, 593503, 271581, 135446, 182645 };
+int[] Poblacion = { 185103, 197139, 399206, 190893, 530586, 414523, 229866, 213417, 475630, 421050, 174744, 1575819, 391903, 593503, 271581, 135446, 182645 };
 Dictionary<string, int> diccionario = Departamento
     .Zip(Poblacion, (k, v) => new { Clave = k, Valor = v })
     .ToDictionary(x => x.Clave, x => x.Valor);
