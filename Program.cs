@@ -25,4 +25,5 @@ Console.WriteLine("Datos Desordenados");
 foreach (var item in diccionario)
 Console.WriteLine($"{item.Key,-20}==>{item.Value,10:N0}");
 Console.WriteLine();
-//Ordenando con LINQ OrderBy el diccionario
+//Sumar todas las poblaciones con SUM de LINQ
+Console.WriteLine($"Poblacion General:{diccionario.values.Sum():N0}");
