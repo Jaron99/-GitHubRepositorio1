@@ -1,0 +1,6 @@
+# Archivo de proyecto de C#
+.csproj
+.sln
+#carpetas de construcción de proyecto de C#
+/bin
+/obj
