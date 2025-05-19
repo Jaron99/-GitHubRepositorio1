@@ -1,5 +1,6 @@
-# Build results
+# Carpetas del Proyecto
 bin/
 obj/
 
+#Archivos del Proyecto
 .DS_Store
