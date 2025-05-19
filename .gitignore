@@ -1,6 +1,24 @@
-# Archivo de proyecto de C#
-.csproj
-.sln
-#carpetas de construcción de proyecto de C#
-/bin
-/obj
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
