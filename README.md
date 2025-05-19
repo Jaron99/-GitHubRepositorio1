@@ -2,15 +2,15 @@
 
 **ColecDictionary** es una aplicación de consola desarrollada en C# que demuestra el uso de colecciones y diccionarios para almacenar y gestionar información de manera eficiente.
 
-## 📌 ¿Qué hace el proyecto?
+## ¿Qué hace el proyecto?
 
 El proyecto permite a los usuarios almacenar pares clave-valor utilizando la estructura `Dictionary` de C#. Se pueden agregar, consultar y eliminar elementos desde la consola de forma interactiva.
 
-## 💡 ¿Por qué el proyecto es útil?
+## ¿Por qué el proyecto es útil?
 
 Es una herramienta educativa que facilita el aprendizaje práctico del uso de colecciones en C#. Sirve como ejemplo inicial para entender cómo estructurar programas basados en estructuras de datos y entrada del usuario.
 
-## 🚀 ¿Cómo comenzar con el proyecto?
+## ¿Cómo comenzar con el proyecto?
 
 1. Clona o descarga este repositorio.
 2. Asegúrate de tener instalado el .NET SDK.
@@ -23,7 +23,7 @@ dotnet run
 
 Esto compilará y ejecutará el proyecto en la consola.
 
-## 🆘 ¿Dónde recibir ayuda?
+## ¿Dónde recibir ayuda?
 
 Si necesitas ayuda, puedes:
 
@@ -31,11 +31,11 @@ Si necesitas ayuda, puedes:
 - Crear un [issue en GitHub](https://github.com/) si este proyecto está alojado allí
 - Contactar directamente conmigo mediante email (jaron.aviles@gmail.com)
 
-## 👨‍💻 ¿Quién mantiene y contribuye con el proyecto?
+## ¿Quién mantiene y contribuye con el proyecto?
 
 Este proyecto fue creado y es mantenido por Yaron Aviles. Se aceptan contribuciones a través de pull requests o sugerencias. ¡Toda ayuda es bienvenida!
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 ColecDictionary/
@@ -48,16 +48,16 @@ ColecDictionary/
 └── .gitignore         # Ignora bin/, obj/ y otros archivos innecesarios
 ```
 
-## 🛠️ Requisitos
+## Requisitos
 
 - .NET SDK 6.0 o superior
 - Un editor como Visual Studio Code o Visual Studio
 
-## ✅ Estado del proyecto
+## Estado del proyecto
 
 > Proyecto en desarrollo — versión inicial funcional.
 
 
-### ✨ Autor
+### Autor
 
 Desarrollado por Yaron Aviles. Siéntete libre de contribuir o dejar sugerencias.
